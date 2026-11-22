@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/estebansamayoa1/estebansamayoa1.r-universe.dev
 	branch = HEAD
+[submodule "estebanmagictoolkit"]
+	path = estebanmagictoolkit
+	url = https://github.com/estebansamayoa1/estebanmagictoolkit
